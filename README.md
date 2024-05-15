@@ -16,7 +16,11 @@ Este es un dashboard interactivo desarrollado utilizando Streamlit, una bibliote
 
 ![Captura de pantalla 1](capturas/dayanara.png)
 
-![Captura de pantalla 2](screenshots/screenshot2.png)
+![Captura de pantalla 1](capturas/dayanara2.png)
+
+![Captura de pantalla 1](capturas/dayanara3.png)
+
+![Captura de pantalla 1](capturas/dayanara4.png)
 
 ## Contribución
 
