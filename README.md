@@ -21,15 +21,3 @@ Este es un dashboard interactivo desarrollado utilizando Streamlit, una bibliote
 
 <img src="capturas/dayanara4.png" width="500">
 
-
-## Contribución
-
-¡Las contribuciones son bienvenidas! Si deseas mejorar esta aplicación, simplemente haz un fork de este repositorio, realiza tus cambios y envía un pull request.
-
-## Autor
-
-[Nombre del autor]
-
-## Licencia
-
-Este proyecto está bajo la [Licencia MIT](LICENSE).
