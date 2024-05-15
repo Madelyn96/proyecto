@@ -13,7 +13,7 @@ Este es un dashboard interactivo desarrollado utilizando Streamlit, una bibliote
 7. Exporta los gráficos a PDF o los datos a Excel utilizando los botones correspondientes.
 
 ## Capturas de pantalla
-
+<img src="capturas/dayanara.png" width="400">
 ![Captura de pantalla 1](capturas/dayanara.png)
 
 ![Captura de pantalla 1](capturas/dayanara2.png)
